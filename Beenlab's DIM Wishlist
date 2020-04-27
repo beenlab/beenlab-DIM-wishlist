@@ -1,7 +1,5 @@
-title: Beenlab's D2 Weapon Wishlist
-
 // Dire Promise
-//notes: (???  ???): Openingshot + rangefinder
+//notes: (???  ???): PvP
 dimwishlist:item=2742838701&perks=1926090091,1561002382,47981717,2846385770
 dimwishlist:item=2742838701&perks=1926090093,1561002382,47981717,2846385770
 dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,2846385770
@@ -58,6 +56,4 @@ dimwishlist:item=2742838701&perks=1926090093,3230963543,957782887,4082225868
 dimwishlist:item=2742838701&perks=1926090094,3230963543,957782887,4082225868
 
 
-{"itemName":"Dire Promise","itemId":2742838701,"slotOneValues":["1926090091","1926090093","1926090094"],"slotTwoValues":["1561002382","1885400500","3230963543"],"slotThreeValues":["47981717","3643424744","957782887"],"slotFourValues":["2846385770","4082225868"],"notes":"Openingshot + rangefinder"},
-
-
+{"itemName":"Dire Promise","itemId":2742838701,"slotOneValues":["1926090091","1926090093","1926090094"],"slotTwoValues":["1561002382","1885400500","3230963543"],"slotThreeValues":["47981717","3643424744","957782887"],"slotFourValues":["2846385770","4082225868"],"notes":"PvP"},
